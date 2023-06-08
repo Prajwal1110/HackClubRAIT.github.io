@@ -4,6 +4,11 @@
 HackClub RAIT focuses essentially on open-source. 
 Our aim is to flourish the thrilling open-source culture to create a favorable environment for open-source contributions. 
 
+  
+  
+  
+
+
 # How to contribute?
 
 **1.**  Fork [this](https://github.com/HackClubRAIT/HackClubRAIT-Website.github.io.git) repository.
